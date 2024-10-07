@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808728101899",
+    "project_id": "assignment-staredu",
+    "storage_bucket": "assignment-staredu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808728101899:android:a987665c1292a779e9730e",
+        "android_client_info": {
+          "package_name": "com.example.assignment_staredu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfCaUjkP2fo4Ija0vv7lHjyl7j92AMeuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
