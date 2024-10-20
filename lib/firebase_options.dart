@@ -85,4 +85,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'assignment-staredu.appspot.com',
     measurementId: 'G-8MVLW4MMLX',
   );
+
 }
